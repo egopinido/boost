@@ -1,17 +1,17 @@
 # ⚡ Omudia Boost (`@omudia/boost`)
-### High-Velocity FYP Acceleration Engine & Real-Time Engagement Dispatcher
+### High-Velocity FYP Acceleration Engine & Real-Time Engagement Dispatcher (Next-Gen SMM Panel Module)
 
 Part of the **[Omudia Ecosystem](https://omudia.com)**.
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)](https://omudia.com)
-[![Ecosystem](https://img.shields.io/badge/Ecosystem-Omudia-7C3AED.svg)](https://github.com/egopinido)
+[![Status](https://img.shields.io/badge/Status-Coming%20Soon%20%7C%20قريباً-F59E0B.svg)](https://omudia.com)
+[![Ecosystem](https://img.shields.io/badge/Ecosystem-Omudia%20SMM%20Panel-7C3AED.svg)](https://github.com/egopinido)
 
 ---
 
 ## 📖 Overview
 
-`@omudia/boost` provides ultra-low-latency task scheduling, token-bucket rate limiting, and algorithmic wave dispatching for short-form video feeds (TikTok FYP, Instagram Reels & Explore, YouTube Shorts). It prevents account throttling while maximizing algorithmic reach.
+`@omudia/boost` provides ultra-low-latency task scheduling, token-bucket rate limiting, and algorithmic wave dispatching for short-form video feeds and viral SMM campaigns (TikTok FYP, Instagram Reels & Explore, YouTube Shorts). It prevents account throttling while maximizing algorithmic reach.
 
 ## ✨ Key Capabilities
 
@@ -62,4 +62,3 @@ console.log(`Dispatched surge wave with ${wave.scheduledCount} tasks.`);
 ---
 
 © 2026 Omudia Ecosystem.
-
