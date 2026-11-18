@@ -1,0 +1,19 @@
+{
+  "name": "@omudia/boost",
+  "version": "1.0.0",
+  "description": "Omudia Boost Core - High-Velocity FYP Acceleration Engine & Real-Time Engagement Dispatcher",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/boost.test.js"
+  },
+  "keywords": [
+    "omudia",
+    "boost",
+    "fyp-acceleration",
+    "rate-limiter",
+    "traffic-booster",
+    "queue-dispatcher"
+  ],
+  "author": "Omudia Ecosystem (egopinido)",
+  "license": "Apache-2.0"
+}
